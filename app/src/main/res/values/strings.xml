@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">gitBottomNavigation</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="menu_3">Menu 3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_menu">First Menu</string>
+    <string name="second_menu">Second Menu</string>
+    <string name="third_menu">Third Menu</string>
+</resources>
